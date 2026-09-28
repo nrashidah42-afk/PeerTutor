@@ -1,0 +1,10 @@
+{
+  "name": "peertutor",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Student-to-student tutoring web application (frontend).",
+  "type": "module",
+  "scripts": {
+    "start": "npx --yes serve -l 8080 ."
+  }
+}
